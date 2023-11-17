@@ -1,0 +1,14 @@
+IDs:      | 1 | 7 | 8 | 9 |
+
+Turtle1 | x: 36515 | y: 9495 | z: 2994  | facing: 4 | state: running |
+
+Turtle7 | x: 956 | y: 548 | z: 74  | facing: 4 | state: running |
+
+Turtle8 | x: 36515 | y: 9495 | z: 2994  | facing: 4 | state: running |
+
+
+
+
+
+
+
